@@ -4,7 +4,7 @@ Prerequisites
 Visual Studio (recommended) or any other C# IDE with WPF support
 Steps to Compile and Run
 Clone the Repository
-git clone https://github.com/Akhona637/recipe-app.git
+git clone (https://github.com/Akhona637/POE.git)
 cd recipe-app
 Open the Project
 
@@ -20,7 +20,7 @@ In Visual Studio, select Debug -> Start Debugging or press F5.
 The application window should now open.
 
 ### GitHub Repository
-[https://github.com/yourusername/recipe-app](https://github.com/yourusername/recipe-app)
+[https://github.com/Akhona637/POE.git](https://github.com/Akhona637/POE.git)
 
 ### Description of Changes Based on Lecturer’s Feedback
 
