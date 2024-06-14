@@ -29,4 +29,4 @@ The Recipe App now includes a Windows Presentation Foundation (WPF) application 
 Key changes include:
 - **Graphical User Interface (GUI)**: The transition from a command-line interface to a WPF-based GUI makes the application more accessible and visually appealing.
 - **Filter Functionality**: A new window (`FilterRecipesWindow`) was added to allow users to filter recipes based on ingredients, food groups, and maximum calorie content.
-- **Code Refactoring**: The code was refactored to separate concerns more effectively, with dedicated classes for managing recipes (`RecipeManager`), and handling ingredients (`Ingredient`) and recipes (`Recipe`). 
+ 
