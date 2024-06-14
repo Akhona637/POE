@@ -1,4 +1,4 @@
-Instructions for Compiling and Running the Software
+#Instructions for Compiling and Running the Software
 Prerequisites
 .NET SDK (version 5.0 or higher)
 Visual Studio (recommended) or any other C# IDE with WPF support
