@@ -24,7 +24,7 @@ The application window should now open.
 
 ### Description of Changes Based on Lecturer’s Feedback
 
-In response to the feedback provided by the lecturer, the Recipe App has been updated from a console application to a Windows Presentation Foundation (WPF) application to provide a more user-friendly graphical interface. The core functionalities, such as adding recipes, displaying recipes, and filtering recipes based on various criteria (ingredient, food group, and calories), have been retained and enhanced within the new interface.
+The Recipe App now includes a Windows Presentation Foundation (WPF) application instead of a console application, offering a more user-friendly graphical interface in response to the lecturer's feedback. The new design has kept and improved the essential features, such uploading and presenting recipes as well as filtering them according to different parameters (like ingredient, food group, and calories).
 
 Key changes include:
 - **Graphical User Interface (GUI)**: The transition from a command-line interface to a WPF-based GUI makes the application more accessible and visually appealing.
