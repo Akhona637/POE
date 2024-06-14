@@ -1,14 +1,14 @@
-###Instructions for Compiling and Running the Software
+### Instructions for Compiling and Running the Software
 Prerequisites
 .NET SDK (version 5.0 or higher)
 Visual Studio (recommended) or any other C# IDE with WPF support
-###Steps to Compile and Run
+### Steps to Compile and Run
 Clone the Repository
 git clone (https://github.com/Akhona637/POE.git)
 cd recipe-app
 Open the Project
 
-###Open Visual Studio.
+### Open Visual Studio.
 Select File -> Open -> Project/Solution.
 Navigate to the cloned repository folder and open the solution file (RecipeApp.sln).
 Build the Project
